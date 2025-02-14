@@ -2,6 +2,10 @@ AUTHOR: Jalen Linville
 CS 4632 Modeling and Simulation Project
 Last Updated: 11/24/2024 @ 11:19PM EST.
 ---------------------------------------------------------
+VIDEO SHOWCASING SIMULATION MODEL:
+https://www.youtube.com/watch?v=kI-tuMux-UI
+
+---------------------------------------------------------
 SUMMARY:
 
 The repository you're currently viewing is a collection of scripts that are
