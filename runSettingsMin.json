@@ -1,0 +1,58 @@
+{
+  "outputDir":"TrialLogs",
+  "updatePeriod":2,
+  "useModule":{
+    "Engine":true,
+    "General":true,
+    "Inputs":true,
+    "Powertrain":true,
+    "Wheels":true
+  },
+  "useStat":{
+    "Engine":{
+      "overTorqueDamage":true,
+      "thermals: connectingRodBearingsDamaged":true,
+      "thermals: cylinderWallOverheatDamage":true,
+      "thermals: engineBlockMelted":true,
+      "thermals: engineBlockOverheatDamage":true,
+      "thermals: oilOverheatDamage":true,
+      "thermals: pistonRingsDamaged":true,
+    },
+    "General":{
+      "time":true,
+      "vehicle x-position":true,
+      "vehicle y-position":true,
+      "vehicle z-position":true,
+      "velocity":true,
+
+    },
+    "Inputs":{
+      "brake":true,
+      "clutch":true,
+      "parkingbrake":true,
+      "steering":true,
+      "throttle":true,
+      "time":true
+    },
+    "Powertrain":{
+      "Rear Driveshaft is broken":true,
+    },
+    "Wheels":{
+      "FL: isBrakeMolten":true,
+      "FL: isBroken":true,
+      "FL: isTireDeflated":true,
+
+      "FR: isBrakeMolten":true,
+      "FR: isBroken":true,
+      "FR: isTireDeflated":true,
+
+      "RL: isBrakeMolten":true,
+      "RL: isBroken":true,
+      "RL: isTireDeflated":true,
+
+      "RR: isBrakeMolten":true,
+      "RR: isBroken":true,
+      "RR: isTireDeflated":true,
+    }
+  }
+}
